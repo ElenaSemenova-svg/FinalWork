@@ -1,0 +1,15 @@
+C:\GB обучение\Final Project\FinalTask\bin\Debug\net6.0\FinalTask.exe
+C:\GB обучение\Final Project\FinalTask\bin\Debug\net6.0\FinalTask.deps.json
+C:\GB обучение\Final Project\FinalTask\bin\Debug\net6.0\FinalTask.runtimeconfig.json
+C:\GB обучение\Final Project\FinalTask\bin\Debug\net6.0\FinalTask.dll
+C:\GB обучение\Final Project\FinalTask\bin\Debug\net6.0\FinalTask.pdb
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.csproj.AssemblyReference.cache
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfoInputs.cache
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.AssemblyInfo.cs
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.csproj.CoreCompileInputs.cache
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.dll
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\refint\FinalTask.dll
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.pdb
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\FinalTask.genruntimeconfig.cache
+C:\GB обучение\Final Project\FinalTask\obj\Debug\net6.0\ref\FinalTask.dll
