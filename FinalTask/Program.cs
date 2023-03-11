@@ -31,7 +31,7 @@ string[] InitMatrix(int sizeArr)
 //Функция вывода массива в терминал
 void PrintMatrix(string[] matrix)
 {
-    for (int i = 0; i < matrix.GetLength(0); i++)
+    for (int i = 0; i < matrix.Length; i++)
     {
         Console.Write($"{matrix[i]} ");
     }
@@ -52,15 +52,19 @@ void FindElements(string[] matrix)
             count++;
         }
     }
-    PrintMatrix(newArray);
+    if (count != 0)
+    {
+        Console.WriteLine("Новый массив с размером элементов меньше или равно трем: ");
+        PrintMatrix(newArray);
+    }
+    else Console.WriteLine("В массиве нет элементов размером меньше или равно трем");
 }
 
 int sizeArr = GetNumber("Задайте размер массива:");
 string[] matrix = InitMatrix(sizeArr);
-Console.WriteLine();
+Console.WriteLine("Массив:");
 PrintMatrix(matrix);
 Console.WriteLine();
-Console.WriteLine("Новый массив с размером элементов меньше или равно три: ");
 FindElements(matrix);
 
 
